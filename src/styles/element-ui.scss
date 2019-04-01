@@ -1,0 +1,170 @@
+ //to reset element-ui default css
+
+
+//暂时性解决diolag 问题 https://github.com/ElemeFE/element/issues/2461
+.el-dialog {
+  transform: none;
+  left: 0;
+  position: relative;
+  margin: 0 auto;
+}
+
+//element ui upload
+.upload-container {
+  .el-upload {
+    width: 100%;
+    .el-upload-dragger {
+      width: 100%;
+      height: 200px;
+    }
+  }
+}
+.el-checkbox {
+  white-space: normal;
+}
+.el-form-item{margin-bottom: 17px}
+.elcol{
+  .el-collapse-item__header{font-size:13px!important;font-weight: bold!important;background:#dfe6ec!important;border: 1px solid #f0f0f0;} 
+  .el-collapse-item__arrow{float: none}
+} 
+.el-message{
+  top:80px!important;
+}
+.el-table thead{color:#333}
+.el-button--primary{background:#5881D8!important;border: 1px solid #5881D8!important;}
+.el-tabs__nav-wrap::after{height: 1px;background:#e3e3e3}
+.lineStr{width:1200px;height:1px;background:#e3e3e3}
+.CoLine{height:1px;background:#e3e3e3;margin:10px 24px 10px 24px}
+.el-tabs__item.is-active{color:rgba(88, 129, 216, 1)!important }
+.el-tabs__item:hover {color:rgba(88, 129, 216, 1)!important}
+.el-tabs__active-bar{background:linear-gradient(135deg,rgba(88,129,216,1) 0%,rgba(60,96,197,1) 100%);left: 24px!important}
+.el-table__column-filter-trigger{line-height: 20px};
+.el-table .caret-wrapper{height: 20px}
+.el-table .sort-caret.ascending{top:-2px}
+.el-table .sort-caret.descending{bottom: 0}
+.breadBody{height: 36px!important}
+.breads{height:20px!important;line-height: 20px!important;margin-top: 8px}
+#tab-1 {margin-left: 24px}
+.ivu-page-options-sizer{margin-right: 0}
+.el-table th>.cell.highlight{color:#333!important}
+
+.ivu-affix{
+  left:unset!important;
+}
+.tablelist{
+  .el-table__empty-block{
+    min-height:410px!important;
+  }  
+}
+.PTile{
+  height:18px;
+  font-size:18px;
+  font-family:PingFangSC-Medium;
+  font-weight:600;
+  color:rgba(51,51,51,1);
+  line-height:18px;
+  }
+.TipMsg{display: inline-block;height: 12px;line-height: 12px;font-size: 12px}
+
+
+.el-progress__text{
+  font-size: 12px!important
+}
+.user-wrapper{
+  .el-badge__content.is-fixed{
+    top:15px!important
+  }
+}
+.popclass{
+  border-radius:2px;
+  padding: 0;
+}
+
+.content{
+
+  .el-carousel__arrow{
+    width: 50px;
+    height: 50px;
+  }
+  .el-carousel__button{
+    opacity: 1;
+  }
+  .el-icon-arrow-left{
+    font-size:30px
+  }
+  .el-icon-arrow-right{
+    font-size:30px
+  }
+  .el-carousel__indicators--labels .el-carousel__button{
+    padding:0;
+    width:32px;
+    height:32px;
+    color:#000000;
+    background:rgba(255,255,255,1);
+    border-radius:6px;
+    border:1px solid #D9D9D9;
+  }
+  .el-carousel__indicator.is-active button{
+    border:1px solid #1890FF;
+  }
+}
+.ivu-page-item-active{
+  border-color:#507ACD;
+  background-color: #507ACD;
+}
+.ivu-page-item-active a, .ivu-page-item-active:hover a{
+  color:#ffffff
+}
+
+.moremenu{
+  margin-top: 0px!important;
+}
+.underline:hover{
+  text-decoration: underline
+}
+.popclass{
+  font-weight: bold;
+  font-size: 16px;
+}
+.time250{
+  width: 250px!important;
+}
+.el-popover{
+  .ivu-page-simple .ivu-page-simple-pager input{
+    width: 60px
+  }
+}
+.oneloading{
+  .el-loading-spinner{
+    top:25%!important
+  }
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none !important;
+    margin: 0;
+}
+input[type="number"]{
+  -moz-appearance: textfield;
+}
+.el-autocomplete-suggestion li:hover{
+  color:#409EFF
+}
+.el-icon-d-arrow-right{
+  padding-left: 10px
+}
+.el-icon-d-arrow-left{
+  padding-right:10px
+}
+.el-date-range-picker__header [class*=arrow-left]{
+  padding-left:10px
+}
+.el-date-range-picker__header [class*=arrow-right]{
+  padding-right: 10px
+}
+.order-messagebox {
+  .el-message-box__status{
+    top: 25%!important;
+  }
+}

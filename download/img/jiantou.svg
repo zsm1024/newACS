@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="99px" height="235px" viewBox="0 0 99 235" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="启动、登录首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="下载指引" transform="translate(-564.000000, -119.000000)" fill-rule="nonzero">
+            <g id="arrow" transform="translate(564.000000, 113.000000)">
+                <g id="Group-2">
+                    <path d="M0.859375,239.984375 C53.6822917,201.90625 69.2369792,164.71875 47.5234375,128.421875 C25.8098958,92.125 36.8020833,57.4270833 80.5,24.328125" id="Path-6" stroke="#FFFFFF" stroke-width="1.5" stroke-dasharray="8,5"></path>
+                    <path d="M90.4449833,4.27814222 L99.3866683,26.0133149 C99.596788,26.5240674 99.353077,27.1084498 98.8423244,27.3185696 C98.5344182,27.4452398 98.1836627,27.4103591 97.9067334,27.2255301 L89.4480494,21.5800101 L81.1521903,27.189199 C80.6946725,27.4985466 80.0730053,27.3784309 79.7636578,26.9209131 C79.5759759,26.6433361 79.5397877,26.2902091 79.6672678,25.9803344 L88.5953848,4.27814222 C88.8055045,3.76738968 89.3898869,3.52367863 89.9006395,3.73379834 C90.1474567,3.8353371 90.3434446,4.03132493 90.4449833,4.27814222 Z" id="Triangle-2" fill="#FFFFFF" transform="translate(89.526716, 15.526716) rotate(45.000000) translate(-89.526716, -15.526716) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
